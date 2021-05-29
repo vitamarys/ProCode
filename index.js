@@ -19,5 +19,5 @@ async function weahter(){
 }
 
 
-setInterval(weahter,10000)
+setInterval(weahter,900000)
 
