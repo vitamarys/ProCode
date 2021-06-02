@@ -1,15 +1,19 @@
 {
-  "name": "new",
+  "name": "procode",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitamarys/ProCode.git"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "axios": "^0.21.1"
-  }
+  "bugs": {
+    "url": "https://github.com/vitamarys/ProCode/issues"
+  },
+  "homepage": "https://github.com/vitamarys/ProCode#readme"
 }
