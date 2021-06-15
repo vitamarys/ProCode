@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vitamarys/ProCode/issues"
   },
-  "homepage": "https://github.com/vitamarys/ProCode#readme"
+  "homepage": "https://github.com/vitamarys/ProCode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
